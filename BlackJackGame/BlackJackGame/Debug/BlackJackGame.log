@@ -1,0 +1,6 @@
+﻿  BlackJackGame.cpp
+D:\VS++\BlackJackGame\BlackJackGame\BlackJackGame\BlackJackGame.cpp(120,23): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\VS++\BlackJackGame\BlackJackGame\BlackJackGame\BlackJackGame.cpp(220,30): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\VS++\BlackJackGame\BlackJackGame\BlackJackGame\BlackJackGame.cpp(72): warning C4715: replay: значение возвращается не при всех путях выполнения
+D:\VS++\BlackJackGame\BlackJackGame\BlackJackGame\BlackJackGame.cpp(150): warning C4715: getCardValue: значение возвращается не при всех путях выполнения
+  BlackJackGame.vcxproj -> D:\VS++\BlackJackGame\BlackJackGame\Debug\BlackJackGame.exe
